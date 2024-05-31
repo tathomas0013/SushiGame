@@ -99,3 +99,122 @@
     <next><![CDATA[ShellCommand]]></next>
   </Command>
   <Command __id="47" _type="ShellCommand" date="Fri May 31 16:19:47 EDT 2024" starttimestamp="1717186670218" timestamp="117198" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="50" _type="PauseCommand" date="Fri May 31 16:21:45 EDT 2024" range="1m-2m" starttimestamp="1717186670218" timestamp="235401">
+    <prevType><![CDATA[Lost Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[118203]]></pause>
+    <nextType><![CDATA[Gained Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="49" _type="ShellCommand" date="Fri May 31 16:21:45 EDT 2024" starttimestamp="1717186670218" timestamp="235401" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="51" _type="ShellCommand" date="Fri May 31 16:21:46 EDT 2024" starttimestamp="1717186670218" timestamp="236180" type="ECLIPSE_MINIMIZED" />
+  <Command __id="52" _type="ShellCommand" date="Fri May 31 16:21:46 EDT 2024" starttimestamp="1717186670218" timestamp="236184" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="54" _type="PauseCommand" date="Fri May 31 16:26:58 EDT 2024" range="5m-10m" starttimestamp="1717186670218" timestamp="548475">
+    <prevType><![CDATA[Lost Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[312291]]></pause>
+    <nextType><![CDATA[Other]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="53" _type="ShellCommand" date="Fri May 31 16:26:58 EDT 2024" starttimestamp="1717186670218" timestamp="548475" type="ECLIPSE_MAXIMIZED" />
+  <Command __id="55" _type="ShellCommand" date="Fri May 31 16:26:58 EDT 2024" starttimestamp="1717186670218" timestamp="548489" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="59" _type="PauseCommand" date="Fri May 31 16:27:01 EDT 2024" range="1s-2s" starttimestamp="1717186670218" timestamp="550806">
+    <prevType><![CDATA[Move Caret]]></prevType>
+    <prev><![CDATA[MoveCaretCommand]]></prev>
+    <pause><![CDATA[1202]]></pause>
+    <nextType><![CDATA[Other]]></nextType>
+    <next><![CDATA[ProgramExecutionEvent]]></next>
+  </Command>
+  <Command __id="58" _type="ProgramExecutionEvent" className="/Assignment09/src/sushigame/game/SushiGame.java" date="Fri May 31 16:27:01 EDT 2024" kind="HitBreakPoint" projectName="Assignment09" starttimestamp="1717186670218" timestamp="550806" type="Run" />
+  <Command __id="60" _type="RunCommand" className="/Assignment09/src/sushigame/game/SushiGame.java" date="Fri May 31 16:27:01 EDT 2024" kind="HitBreakPoint" projectName="Assignment09" starttimestamp="1717186670218" timestamp="550806" type="Run" />
+  <Command __id="61" _type="ShellCommand" date="Fri May 31 16:27:01 EDT 2024" starttimestamp="1717186670218" timestamp="551418" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="63" _type="PauseCommand" date="Fri May 31 16:28:16 EDT 2024" range="1m-2m" starttimestamp="1717186670218" timestamp="626555">
+    <prevType><![CDATA[Lost Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[75137]]></pause>
+    <nextType><![CDATA[Gained Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="62" _type="ShellCommand" date="Fri May 31 16:28:16 EDT 2024" starttimestamp="1717186670218" timestamp="626555" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="64" _type="ProgramExecutionEvent" className="/Assignment09/src/sushigame/game/SushiGame.java" date="Fri May 31 16:28:16 EDT 2024" kind="HitBreakPoint" projectName="Assignment09" starttimestamp="1717186670218" timestamp="626732" type="Run" />
+  <Command __id="65" _type="ProgramExecutionEvent" className="/Assignment09/src/sushigame/game/SushiGame.java" date="Fri May 31 16:28:16 EDT 2024" kind="HitBreakPoint" projectName="Assignment09" starttimestamp="1717186670218" timestamp="626732" type="Run" />
+  <Command __id="67" _type="PauseCommand" date="Fri May 31 16:28:26 EDT 2024" range="5s-10s" starttimestamp="1717186670218" timestamp="635893">
+    <prevType><![CDATA[Other]]></prevType>
+    <prev><![CDATA[ProgramExecutionEvent]]></prev>
+    <pause><![CDATA[9161]]></pause>
+    <nextType><![CDATA[Open File]]></nextType>
+    <next><![CDATA[DiffBasedFileOpenCommand]]></next>
+  </Command>
+  <Command __id="68" _type="MoveCaretCommand" caretOffset="0" date="Fri May 31 16:28:26 EDT 2024" docOffset="0" starttimestamp="1717186670218" timestamp="636089" />
+  <Command __id="70" _type="PauseCommand" date="Fri May 31 16:28:28 EDT 2024" range="2s-5s" starttimestamp="1717186670218" timestamp="638576">
+    <prevType><![CDATA[Move Caret]]></prevType>
+    <prev><![CDATA[MoveCaretCommand]]></prev>
+    <pause><![CDATA[2487]]></pause>
+    <nextType><![CDATA[Open File]]></nextType>
+    <next><![CDATA[DiffBasedFileOpenCommand]]></next>
+  </Command>
+  <Command __id="71" _type="MoveCaretCommand" caretOffset="0" date="Fri May 31 16:28:28 EDT 2024" docOffset="0" starttimestamp="1717186670218" timestamp="638757" />
+  <Command __id="73" _type="PauseCommand" date="Fri May 31 16:28:32 EDT 2024" range="2s-5s" starttimestamp="1717186670218" timestamp="642335">
+    <prevType><![CDATA[Move Caret]]></prevType>
+    <prev><![CDATA[MoveCaretCommand]]></prev>
+    <pause><![CDATA[3578]]></pause>
+    <nextType><![CDATA[Select]]></nextType>
+    <next><![CDATA[SelectTextCommand]]></next>
+  </Command>
+  <Command __id="72" _type="SelectTextCommand" caretOffset="775" date="Fri May 31 16:28:32 EDT 2024" end="791" start="775" starttimestamp="1717186670218" timestamp="642335" />
+  <Command __id="75" _type="InsertStringCommand" date="Fri May 31 16:28:33 EDT 2024" starttimestamp="1717186670218" timestamp="643071" timestamp2="643071">
+    <data><![CDATA[e]]></data>
+  </Command>
+  <Command __id="77" _type="InsertStringCommand" date="Fri May 31 16:28:33 EDT 2024" starttimestamp="1717186670218" timestamp="643328" timestamp2="643328">
+    <data><![CDATA[n]]></data>
+  </Command>
+  <Command __id="79" _type="InsertStringCommand" date="Fri May 31 16:28:33 EDT 2024" starttimestamp="1717186670218" timestamp="643484" timestamp2="643484">
+    <data><![CDATA[t]]></data>
+  </Command>
+  <Command __id="81" _type="InsertStringCommand" date="Fri May 31 16:28:33 EDT 2024" starttimestamp="1717186670218" timestamp="643634" timestamp2="643634">
+    <data><![CDATA[e]]></data>
+  </Command>
+  <Command __id="83" _type="InsertStringCommand" date="Fri May 31 16:28:33 EDT 2024" starttimestamp="1717186670218" timestamp="643735" timestamp2="643735">
+    <data><![CDATA[r]]></data>
+  </Command>
+  <Command __id="85" _type="InsertStringCommand" date="Fri May 31 16:28:34 EDT 2024" starttimestamp="1717186670218" timestamp="644145" timestamp2="644145">
+    <data><![CDATA[ ]]></data>
+  </Command>
+  <Command __id="87" _type="InsertStringCommand" date="Fri May 31 16:28:34 EDT 2024" starttimestamp="1717186670218" timestamp="644296" timestamp2="644296">
+    <data><![CDATA[n]]></data>
+  </Command>
+  <Command __id="89" _type="InsertStringCommand" date="Fri May 31 16:28:34 EDT 2024" starttimestamp="1717186670218" timestamp="644418" timestamp2="644418">
+    <data><![CDATA[a]]></data>
+  </Command>
+  <Command __id="91" _type="InsertStringCommand" date="Fri May 31 16:28:34 EDT 2024" starttimestamp="1717186670218" timestamp="644559" timestamp2="644559">
+    <data><![CDATA[m]]></data>
+  </Command>
+  <Command __id="93" _type="InsertStringCommand" date="Fri May 31 16:28:34 EDT 2024" starttimestamp="1717186670218" timestamp="644742" timestamp2="644742">
+    <data><![CDATA[e]]></data>
+  </Command>
+  <Command __id="95" _type="InsertStringCommand" date="Fri May 31 16:28:35 EDT 2024" starttimestamp="1717186670218" timestamp="644999" timestamp2="644999">
+    <data><![CDATA[ ]]></data>
+  </Command>
+  <Command __id="97" _type="InsertStringCommand" date="Fri May 31 16:28:35 EDT 2024" starttimestamp="1717186670218" timestamp="645224" timestamp2="645224">
+    <data><![CDATA[h]]></data>
+  </Command>
+  <Command __id="99" _type="InsertStringCommand" date="Fri May 31 16:28:35 EDT 2024" starttimestamp="1717186670218" timestamp="645355" timestamp2="645355">
+    <data><![CDATA[e]]></data>
+  </Command>
+  <Command __id="101" _type="InsertStringCommand" date="Fri May 31 16:28:35 EDT 2024" starttimestamp="1717186670218" timestamp="645416" timestamp2="645416">
+    <data><![CDATA[r]]></data>
+  </Command>
+  <Command __id="103" _type="InsertStringCommand" date="Fri May 31 16:28:35 EDT 2024" starttimestamp="1717186670218" timestamp="645564" timestamp2="645564">
+    <data><![CDATA[e]]></data>
+  </Command>
+  <Command __id="105" _type="PauseCommand" date="Fri May 31 16:28:37 EDT 2024" range="1s-2s" starttimestamp="1717186670218" timestamp="646812">
+    <prevType><![CDATA[Edit]]></prevType>
+    <prev><![CDATA[InsertStringCommand]]></prev>
+    <pause><![CDATA[1248]]></pause>
+    <nextType><![CDATA[Move Caret]]></nextType>
+    <next><![CDATA[MoveCaretCommand]]></next>
+  </Command>
+  <Command __id="104" _type="MoveCaretCommand" caretOffset="726" date="Fri May 31 16:28:37 EDT 2024" docOffset="1604" starttimestamp="1717186670218" timestamp="646812" />
+  <Command __id="106" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" date="Fri May 31 16:28:37 EDT 2024" starttimestamp="1717186670218" timestamp="647422" />
+  <Command __id="107" _type="EclipseCommand" commandID="" date="Fri May 31 16:28:37 EDT 2024" starttimestamp="1717186670218" timestamp="647524" />
+  <Command __id="108" _type="EclipseCommand" commandID="" date="Fri May 31 16:28:37 EDT 2024" starttimestamp="1717186670218" timestamp="647565" />

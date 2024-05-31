@@ -48,7 +48,7 @@ public class RollUI extends JPanel{
 	private JSlider shrimpSlider = new JSlider(0, 150, 0);
 	private JSlider tunaSlider = new JSlider(0, 150, 0);
 	
-	private JTextField rollName = new JTextField("daddy eat my ass");
+	private JTextField rollName = new JTextField("enter name here");
 	 
 	private Sushi sushi; 
 	private String[] positions = {"0","1", "2", "3", "4", "5", "6","7", "8", "9", "10","11","12", "13", "14"}; 
